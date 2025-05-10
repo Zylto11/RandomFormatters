@@ -1,2 +1,2 @@
 # RandomFormatters
-A bunch of random dataset formatters from my AI project
+A bunch of random and raw dataset formatters from my AI project
